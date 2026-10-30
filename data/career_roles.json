@@ -1,0 +1,273 @@
+
+{
+  "Data Scientist": {
+    "industry": "Data Science",
+    "skills": {
+      "Python": "high",
+      "SQL": "high",
+      "Statistics": "high",
+      "Machine Learning": "high",
+      "Data Visualization": "medium",
+      "Pandas": "high",
+      "NumPy": "medium",
+      "Power BI": "medium",
+      "Deep Learning": "medium"
+    },
+    "projects": [
+      "Student Performance Prediction",
+      "Sales Data Analysis Dashboard",
+      "Customer Churn Prediction"
+    ],
+    "languages": ["Python", "SQL"],
+    "learning": [
+      "Learn Python fundamentals",
+      "Practice SQL queries",
+      "Study statistics and probability",
+      "Learn Pandas and NumPy",
+      "Understand machine learning",
+      "Build data science projects"
+    ]
+  },
+  "AI Engineer": {
+    "industry": "Artificial Intelligence",
+    "skills": {
+      "Python": "high",
+      "Machine Learning": "high",
+      "Deep Learning": "high",
+      "NLP": "high",
+      "SQL": "medium",
+      "TensorFlow": "medium",
+      "PyTorch": "medium",
+      "APIs": "medium",
+      "Git": "medium"
+    },
+    "projects": [
+      "AI Career Recommendation System",
+      "Document Question Answering Chatbot",
+      "AI-powered Personal Assistant"
+    ],
+    "languages": ["Python", "SQL"],
+    "learning": [
+      "Master Python programming",
+      "Learn machine learning fundamentals",
+      "Study neural networks",
+      "Learn NLP",
+      "Explore TensorFlow or PyTorch",
+      "Build and deploy AI applications"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "industry": "Artificial Intelligence",
+    "skills": {
+      "Python": "high",
+      "Statistics": "high",
+      "Machine Learning": "high",
+      "Deep Learning": "high",
+      "SQL": "medium",
+      "Scikit-learn": "high",
+      "TensorFlow": "medium",
+      "PyTorch": "medium",
+      "Git": "medium"
+    },
+    "projects": [
+      "House Price Prediction",
+      "Recommendation Engine",
+      "Image Classification System"
+    ],
+    "languages": ["Python", "SQL"],
+    "learning": [
+      "Strengthen Python",
+      "Learn statistics and probability",
+      "Study supervised and unsupervised learning",
+      "Practice Scikit-learn",
+      "Learn model evaluation",
+      "Deploy machine learning models"
+    ]
+  },
+  "Data Analyst": {
+    "industry": "Data Analytics",
+    "skills": {
+      "Python": "medium",
+      "SQL": "high",
+      "Excel": "high",
+      "Statistics": "high",
+      "Power BI": "high",
+      "Data Visualization": "high",
+      "Pandas": "medium"
+    },
+    "projects": [
+      "Business Sales Dashboard",
+      "Student Result Analysis",
+      "E-commerce Data Analysis"
+    ],
+    "languages": ["SQL", "Python"],
+    "learning": [
+      "Learn advanced Excel",
+      "Master SQL",
+      "Study statistics",
+      "Learn Power BI",
+      "Practice Python and Pandas",
+      "Build interactive dashboards"
+    ]
+  },
+  "Web Developer": {
+    "industry": "Web Development",
+    "skills": {
+      "HTML": "high",
+      "CSS": "high",
+      "JavaScript": "high",
+      "Git": "medium",
+      "Responsive Design": "high",
+      "APIs": "medium",
+      "React": "medium"
+    },
+    "projects": [
+      "Personal Portfolio Website",
+      "Student Management Website",
+      "Event Registration Platform"
+    ],
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "learning": [
+      "Learn HTML fundamentals",
+      "Master CSS and responsive design",
+      "Learn JavaScript",
+      "Understand APIs",
+      "Learn React",
+      "Deploy real-world websites"
+    ]
+  },
+  "Full Stack Developer": {
+    "industry": "Software Development",
+    "skills": {
+      "HTML": "high",
+      "CSS": "high",
+      "JavaScript": "high",
+      "React": "high",
+      "Node.js": "high",
+      "SQL": "medium",
+      "Git": "high",
+      "APIs": "high",
+      "Database Design": "medium"
+    },
+    "projects": [
+      "Full Stack Job Portal",
+      "College Management System",
+      "E-commerce Application"
+    ],
+    "languages": ["JavaScript", "SQL"],
+    "learning": [
+      "Learn HTML and CSS",
+      "Master JavaScript",
+      "Learn React",
+      "Understand Node.js",
+      "Learn databases and APIs",
+      "Build and deploy full-stack projects"
+    ]
+  },
+  "Python Developer": {
+    "industry": "Software Development",
+    "skills": {
+      "Python": "high",
+      "OOP": "high",
+      "SQL": "medium",
+      "Git": "high",
+      "APIs": "medium",
+      "Django": "medium",
+      "Flask": "medium",
+      "Problem Solving": "high"
+    },
+    "projects": [
+      "Expense Tracker",
+      "REST API Application",
+      "Student Management System"
+    ],
+    "languages": ["Python", "SQL"],
+    "learning": [
+      "Master Python fundamentals",
+      "Learn object-oriented programming",
+      "Practice data structures",
+      "Learn SQL",
+      "Build APIs using Flask or Django",
+      "Create deployable applications"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "industry": "Cybersecurity",
+    "skills": {
+      "Networking": "high",
+      "Linux": "high",
+      "Python": "medium",
+      "Cybersecurity Fundamentals": "high",
+      "Operating Systems": "high",
+      "SQL": "medium",
+      "Security Tools": "medium"
+    },
+    "projects": [
+      "Network Traffic Analysis",
+      "Security Log Monitoring Dashboard",
+      "Password Security Awareness Tool"
+    ],
+    "languages": ["Python", "Bash"],
+    "learning": [
+      "Understand computer networks",
+      "Learn Linux fundamentals",
+      "Study operating systems",
+      "Learn cybersecurity concepts",
+      "Practice defensive security analysis",
+      "Build security monitoring projects"
+    ]
+  },
+  "Cloud Engineer": {
+    "industry": "Cloud Computing",
+    "skills": {
+      "Linux": "high",
+      "Networking": "high",
+      "Python": "medium",
+      "Cloud Computing": "high",
+      "Docker": "medium",
+      "Git": "medium",
+      "CI/CD": "medium",
+      "SQL": "medium"
+    },
+    "projects": [
+      "Cloud Hosted Portfolio",
+      "Containerized Web Application",
+      "Automated Deployment Pipeline"
+    ],
+    "languages": ["Python", "Bash"],
+    "learning": [
+      "Learn Linux",
+      "Study networking",
+      "Understand cloud computing",
+      "Explore AWS or Azure",
+      "Learn Docker",
+      "Practice CI/CD and deployment"
+    ]
+  },
+  "Product Analyst": {
+    "industry": "Product Management",
+    "skills": {
+      "SQL": "high",
+      "Excel": "high",
+      "Statistics": "high",
+      "Data Visualization": "high",
+      "Product Analytics": "high",
+      "Communication": "high",
+      "Python": "medium"
+    },
+    "projects": [
+      "Product Usage Analytics Dashboard",
+      "Customer Feedback Analysis",
+      "Feature Adoption Analysis"
+    ],
+    "languages": ["SQL", "Python"],
+    "learning": [
+      "Learn Excel",
+      "Master SQL",
+      "Study statistics",
+      "Understand product metrics",
+      "Learn data visualization",
+      "Analyze real product datasets"
+    ]
+  }
+}
