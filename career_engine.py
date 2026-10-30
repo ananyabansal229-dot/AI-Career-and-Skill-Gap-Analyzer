@@ -114,7 +114,6 @@ def analyze_career(
         raise ValueError("Please select a valid career role.")
 
     role_data = roles[target_role]
-
     required_skills = role_data["skills"]
 
     current = {
@@ -124,31 +123,22 @@ def analyze_career(
     }
 
     if job_description.strip():
-        job_skills = extract_skills(
-            job_description,
-            set(required_skills.keys())
-        )
 
-        for skill in job_skills:
-            current.discard(skill)
+        job_skills = extract_skills(
+            job_description
+        )
 
         target_skills = set(job_skills)
 
-        # If the job description contains no recognized
-        # skills, fall back to the selected career profile.
         if not target_skills:
-            target_skills = set(required_skills)
+            target_skills = set(required_skills.keys())
+
     else:
-        target_skills = set(required_skills)
+        target_skills = set(required_skills.keys())
 
-    matched = []
-    missing = []
+    matched = sorted(target_skills.intersection(current))
 
-    for skill in sorted(target_skills):
-        if skill in current:
-            matched.append(skill)
-        else:
-            missing.append(skill)
+    missing = sorted(target_skills - current)
 
     priority_order = {
         "high": 1,
@@ -173,15 +163,19 @@ def analyze_career(
     roadmap = []
 
     for index, skill in enumerate(missing, start=1):
-        level = required_skills.get(skill, "medium")
+
+        level = required_skills.get(
+            skill,
+            "medium"
+        )
 
         roadmap.append({
             "step": index,
             "skill": skill,
             "priority": level,
             "action": (
-                f"Learn {skill} fundamentals and complete "
-                f"a practical exercise."
+                f"Learn {skill} fundamentals and "
+                "complete a practical exercise."
             )
         })
 
