@@ -1,0 +1,105 @@
+
+{
+  "opportunities": [
+    {
+      "title": "Smart India Hackathon",
+      "type": "Hackathon",
+      "audience": ["Student", "Developer", "AI Engineer"],
+      "skills": ["Python", "Problem Solving", "AI", "Web Development"],
+      "description": "A national-level innovation and problem-solving hackathon.",
+      "url": "https://www.sih.gov.in/",
+      "status": "Check official website",
+      "location": "India"
+    },
+    {
+      "title": "NASA Space Apps Challenge",
+      "type": "Hackathon",
+      "audience": ["Student", "Developer", "Data Scientist"],
+      "skills": ["Python", "Data Science", "AI", "Problem Solving"],
+      "description": "A global hackathon focused on space and Earth science challenges.",
+      "url": "https://www.spaceappschallenge.org/",
+      "status": "Check official website",
+      "location": "Global"
+    },
+    {
+      "title": "Devfolio Hackathons",
+      "type": "Hackathon",
+      "audience": ["Student", "Developer", "AI Engineer"],
+      "skills": ["Programming", "AI", "Web Development"],
+      "description": "Discover developer hackathons and build projects with teams.",
+      "url": "https://devfolio.co/hackathons",
+      "status": "Check listings",
+      "location": "India and Global"
+    },
+    {
+      "title": "MLH Hackathons",
+      "type": "Hackathon",
+      "audience": ["Student", "Developer"],
+      "skills": ["Programming", "Web Development", "AI"],
+      "description": "Student-focused hackathons and developer events.",
+      "url": "https://mlh.io/",
+      "status": "Check listings",
+      "location": "Global"
+    },
+    {
+      "title": "GitHub Student Developer Pack",
+      "type": "Learning Opportunity",
+      "audience": ["Student", "Developer"],
+      "skills": ["Git", "GitHub", "Programming"],
+      "description": "Developer learning resources and student benefits.",
+      "url": "https://education.github.com/pack",
+      "status": "Check eligibility",
+      "location": "Online"
+    },
+    {
+      "title": "Kaggle Competitions",
+      "type": "Competition",
+      "audience": ["Data Scientist", "Data Analyst", "AI Engineer"],
+      "skills": ["Python", "Machine Learning", "Data Science"],
+      "description": "Practice data science and machine learning using datasets.",
+      "url": "https://www.kaggle.com/competitions",
+      "status": "Check active competitions",
+      "location": "Online"
+    },
+    {
+      "title": "Google Summer of Code",
+      "type": "Internship / Open Source",
+      "audience": ["Student", "Developer"],
+      "skills": ["Programming", "Git", "Open Source"],
+      "description": "Contribute to open-source projects through a structured program.",
+      "url": "https://summerofcode.withgoogle.com/",
+      "status": "Check current program dates",
+      "location": "Global"
+    },
+    {
+      "title": "Internshala",
+      "type": "Internship",
+      "audience": ["Student", "Developer", "Data Analyst"],
+      "skills": ["Python", "Web Development", "Data Analytics"],
+      "description": "Discover internship and training opportunities.",
+      "url": "https://internshala.com/",
+      "status": "Check current listings",
+      "location": "India"
+    },
+    {
+      "title": "Startup India",
+      "type": "Startup Opportunity",
+      "audience": ["Founder", "Entrepreneur"],
+      "skills": ["Business Planning", "Product Development"],
+      "description": "Explore startup resources, programs and ecosystem opportunities.",
+      "url": "https://www.startupindia.gov.in/",
+      "status": "Check current programs",
+      "location": "India"
+    },
+    {
+      "title": "Startup Grind",
+      "type": "Networking and Pitch Events",
+      "audience": ["Founder", "Entrepreneur"],
+      "skills": ["Pitching", "Networking", "Product Development"],
+      "description": "Explore startup community events and founder networking.",
+      "url": "https://www.startupgrind.com/",
+      "status": "Check local events",
+      "location": "Global"
+    }
+  ]
+}
