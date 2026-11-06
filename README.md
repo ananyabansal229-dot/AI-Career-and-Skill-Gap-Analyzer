@@ -194,8 +194,6 @@ Skill match scores are indicative and must not be treated as hiring decisions or
 
 **Team Members:** Ananya Bansal, Anchal, Jayant Sindhav, Sparsh Dheer
 
-**Institution:** Meerut Institute of Engineering and Technology (MIET)
-
 ## Project Vision
 
 Not just a career suggestion.
