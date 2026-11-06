@@ -192,7 +192,7 @@ Skill match scores are indicative and must not be treated as hiring decisions or
 
 **Team Name:** Apex Devs
 
-**Team Members:** Ananya Bansal, Arushi Shrikar, Anchal, Jayant Sindhav, Akshay Singhal
+**Team Members:** Ananya Bansal, Anchal, Jayant Sindhav, Sparsh Dheer
 
 **Institution:** Meerut Institute of Engineering and Technology (MIET)
 
